@@ -1,0 +1,16 @@
+{
+  "author": "ritch",
+  "name": "tunnel",
+  "description": "host a server from anywhere",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ritch/tunnel.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.4.8"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
